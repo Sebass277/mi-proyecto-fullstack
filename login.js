@@ -1,1 +1,1 @@
-console.log('Login iniciado - Versión B');
+console.log('Login iniciado - Versiones A y B unificadas');
