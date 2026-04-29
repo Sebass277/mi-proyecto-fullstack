@@ -1,1 +1,1 @@
-console.log('Base del sistema');
+console.log('Login iniciado - Versión B');
